@@ -1,0 +1,18 @@
+﻿生成启动时间为 2019/5/13 1:31:09。
+     1>项目“C:\Users\Li Jiang\Documents\Visual Studio 2013\Projects\ChatServer\ChatServer\ChatServer.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ChatServer.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ClientSocket.cpp
+         ClientSocket.cpp
+       Link:
+         E:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Li Jiang\Documents\Visual Studio 2013\Projects\ChatServer\Debug\ChatServer.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:E:\VS2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"C:\Users\Li Jiang\Documents\Visual Studio 2013\Projects\ChatServer\Debug\ChatServer.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Li Jiang\Documents\Visual Studio 2013\Projects\ChatServer\Debug\ChatServer.lib" /MACHINE:X86 Debug\ChatServer.res
+         Debug\ChatServer.obj
+         Debug\ChatServerDlg.obj
+         Debug\ClientSocket.obj
+         Debug\ListenSocket.obj
+         Debug\stdafx.obj
+         ChatServer.vcxproj -> C:\Users\Li Jiang\Documents\Visual Studio 2013\Projects\ChatServer\Debug\ChatServer.exe
+     1>已完成生成项目“C:\Users\Li Jiang\Documents\Visual Studio 2013\Projects\ChatServer\ChatServer\ChatServer.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.51
